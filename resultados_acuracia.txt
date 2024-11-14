@@ -1,0 +1,26 @@
+50 epochs; taxa de unlabeled loss = 0.5; threshold = 0.95
+
+Acurácia no conjunto de teste: 15.07% para 1 rótulo por classe
+Acurácia no conjunto de teste: 12.64% para 4 rótulo por classe
+Acurácia no conjunto de teste: 26.43% para 25 rótulo por classe
+Acurácia no conjunto de teste: 39.90% para 400 rótulo por classe
+
+50 epochs; taxa de unlabeled loss = 0.75; threshold = 0.95
+Acurácia no conjunto de teste: 13.93% para 1 rótulo por classe
+Acurácia no conjunto de teste: 16.10% para 4
+Acurácia no conjunto de teste: 17.48%
+Acurácia no conjunto de teste: 38.99%
+
+50 epochs; taxa de unlabeled loss = 0.25; threshold = 0.95
+Acurácia no conjunto de teste: 9.43%
+Acurácia no conjunto de teste: 12.51%
+Acurácia no conjunto de teste: 22.75%
+
+1 epochs; taxa de unlabeled loss = 0.5; threshold = 0.8
+Acurácia no conjunto de teste: 18.72%
+
+50 epochs; taxa de unlabeled loss = 0.5; threshold = 0.8
+Acurácia no conjunto de teste: 10.00%
+
+50 epochs; taxa de unlabeled loss = 0.5; threshold = 0.85
+Acurácia no conjunto de teste: 11.94%
